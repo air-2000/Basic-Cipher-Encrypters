@@ -27,4 +27,4 @@ class VignereCipher:
 
 
 
-print(VignereCipher.encrypt('Jame','key'))
+#print(VignereCipher.encrypt('Jame','key'))
