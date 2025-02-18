@@ -29,4 +29,4 @@ class CaesarCipher:
 #key = int(input("Please input your key [INTEGER]: "))
 #shift = input("type l for left shift, r for right shift: ")
 
-print(CaesarCipher.encrypt('Jame', 3, 'l'))
+#print(CaesarCipher.encrypt('Jame', 3, 'l'))
